@@ -1,0 +1,59 @@
+[
+    {
+        "name": "iPhone 13 Pro",
+        "price": 999,
+        "feature": true,
+        "rating": 4.8,
+        "company": "apple"
+    },
+    {
+        "name": "Samsung Galaxy S21 Ultra",
+        "price": 1199,
+        "feature": true,
+        "rating": 4.7,
+        "company": "samsung"
+    },
+    {
+        "name": "Xiaomi Redmi Note 10 Pro",
+        "price": 279,
+        "feature": false,
+        "rating": 4.6,
+        "company": "mi"
+    },
+    {
+        "name": "Redmi 10",
+        "price": 199,
+        "feature": false,
+        "rating": 4.5,
+        "company": "redmi"
+    },
+    {
+        "name": "iPhone 14 Pro Max",
+        "price": 1299,
+        "feature": true,
+        "rating": 4.9,
+        "company": "apple"
+    },
+    {
+        "name": "Xiaomi Mi 11 Ultra",
+        "price": 1099,
+        "feature": true,
+        "rating": 4.8,
+        "company": "mi"
+    },
+    {
+        "name": "Samsung Galaxy Z Fold 3",
+        "price": 1799,
+        "feature": true,
+        "rating": 4.7,
+        "company": "samsung"
+    },
+    {
+        "name": "Redmi Note 11",
+        "price": 299,
+        "feature": false,
+        "rating": 4.6,
+        "company": "redmi"
+    }
+]
+
