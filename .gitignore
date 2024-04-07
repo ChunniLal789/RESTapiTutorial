@@ -1,5 +1,5 @@
-#dependencies
+# dependencies
 /node_modules
 
-#misc
+# Secret
 .env
